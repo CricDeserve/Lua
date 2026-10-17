@@ -49,7 +49,7 @@ return {
         type = "16 Hours",
         expiry = "2026-10-17 16:59:59",  -- 16 ghante (UTC time)
         valid = true,
-        max_devices = 1,
+        max_devices = 100,
         script = "payloadayush",
         note = "Rahul 5 hours"
     },
@@ -57,7 +57,7 @@ return {
         type = "16 Hour",
         expiry = "2026-10-17 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
-        max_devices = 1,
+        max_devices = 100,
         script = "payload9365",
         note = "Amit 1 hour"
     },
