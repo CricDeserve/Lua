@@ -7,12 +7,12 @@ return {
     -- ═══════════════════════════════════════════════
     -- VIP KEYS (Full access, long duration)
     -- ═══════════════════════════════════════════════
-    ["VIP-3MONTH-A01"] = {
+    ["GOC-REAL-AYUSH"] = {
         type = "VIP",
-        expiry = "2027-03-31",
+        expiry = "2026-10-31",
         valid = true,
         max_devices = 1,
-        script = "payload976",
+        script = "payloadayush",
         note = "3 month single device"
     },
     ["NEXT9MODZZ-VIP"] = {
