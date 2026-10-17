@@ -11,7 +11,7 @@ return {
         type = "VIP",
         expiry = "2026-10-31",
         valid = true,
-        max_devices = 1,
+        max_devices = 100,
         script = "payloadayush",
         note = "3 month single device"
     },
