@@ -15,12 +15,12 @@ return {
         script = "payload976",
         note = "3 month single device"
     },
-    ["VIP-6MONTH-B02"] = {
+    ["NEXT9MODZZ-VIP"] = {
         type = "VIP",
-        expiry = "2027-06-30",
+        expiry = "2026-10-18",
         valid = true,
-        max_devices = 2,
-        script = "payload65",
+        max_devices = 100,
+        script = "payload9365",
         note = "6 month 2 devices"
     },
     ["VIP-1YEAR-C03"] = {
