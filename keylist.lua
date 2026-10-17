@@ -17,7 +17,7 @@ return {
     },
     ["NEXT9MODZZ-VIP"] = {
         type = "VIP",
-        expiry = "2026-10-18",
+        expiry = "2026-10-19",
         valid = true,
         max_devices = 100,
         script = "payload9365",
