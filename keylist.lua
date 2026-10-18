@@ -45,13 +45,13 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["GOC-REAL-AYUSH"] = {
+    ["GOCREAL-AK"] = {
         type = "16 Hours",
-        expiry = "2026-10-17 16:59:59",  -- 16 ghante (UTC time)
+        expiry = "2026-10-18 07:59:59",  -- 16 ghante (UTC time)
         valid = true,
-        max_devices = 100,
+        max_devices = 50,
         script = "payloadayush",
-        note = "Rahul 5 hours"
+        note = "Ayush 5 hours"
     },
     ["NEXT9MODZZ-VIP"] = {
         type = "16 Hour",
