@@ -50,7 +50,7 @@ return {
         expiry = "2026-10-19 16:59:59",  -- 16 ghante (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadayush7",
+        script = "payloadayush74",
         note = "Ayush 5 hours"
     },
     ["NEXT9MODZZ"] = {
