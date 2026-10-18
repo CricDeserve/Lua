@@ -53,13 +53,13 @@ return {
         script = "payloadayush7",
         note = "Ayush 5 hours"
     },
-    ["NEXT9MODZZ-VIP"] = {
+    ["NEXT9MODZZ"] = {
         type = "8 Hour",
         expiry = "2026-10-19 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 100,
         script = "payload9365",
-        note = "Amit 1 hour"
+        note = "Rohit 1 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
         type = "30 Min",
