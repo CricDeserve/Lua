@@ -47,7 +47,7 @@ return {
     -- ═══════════════════════════════════════════════════════
     ["GOCREAL-AK4"] = {
         type = "16 Hours",
-        expiry = "2026-10-19 07:59:59",  -- 16 ghante (UTC time)
+        expiry = "2026-10-19 16:59:59",  -- 16 ghante (UTC time)
         valid = true,
         max_devices = 1000,
         script = "payloadayush",
