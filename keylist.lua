@@ -47,14 +47,14 @@ return {
     -- ═══════════════════════════════════════════════════════
     ["GOCREAL-AK"] = {
         type = "16 Hours",
-        expiry = "2026-10-18 07:59:59",  -- 16 ghante (UTC time)
+        expiry = "2026-10-19 07:59:59",  -- 16 ghante (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadayush",
         note = "Ayush 5 hours"
     },
     ["NEXT9MODZZ-VIP"] = {
-        type = "16 Hour",
+        type = "8 Hour",
         expiry = "2026-10-17 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 100,
