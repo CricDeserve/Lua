@@ -45,9 +45,9 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["GOCREAL-AK-REAL"] = {
+    ["GOCREAL-BY-AK"] = {
         type = "16 Hours",
-        expiry = "2026-10-19 16:59:59",  -- 16 ghante (UTC time)
+        expiry = "2026-10-20 16:59:59",  -- 16 ghante (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadayush74",
