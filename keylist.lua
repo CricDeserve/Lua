@@ -61,6 +61,14 @@ return {
         script = "payload45",
         note = "Rohit 1 hour"
     },
+    ["NEXT9MODZZ-1D-VIP"] = {
+        type = "16 Hour",
+        expiry = "2026-10-20 16:59:59",  -- 16 ghanta (UTC time)
+        valid = true,
+        max_devices = 2,
+        script = "payloadvip24",
+        note = "Rohit 24 hour"
+    },
     ["VIP-30MIN-VIJAY"] = {
         type = "30 Min",
         expiry = "2026-10-19 11:30:00",  -- 30 minute (UTC time)
