@@ -45,7 +45,7 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["@AYUSHKRJ"] = {
+    ["AYUSHKRJ"] = {
         type = "16 Hours",
         expiry = "2026-10-21 16:59:59",  -- 16 ghante (UTC time)
         valid = true,
