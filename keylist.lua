@@ -45,11 +45,11 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["AYUSHKRJ"] = {
+    ["AYUSHKRJ-GOC"] = {
         type = "16 Hours",
         expiry = "2026-10-21 16:59:59",  -- 16 ghante (UTC time)
         valid = true,
-        max_devices = 50,
+        max_devices = 100,
         script = "payload24ayush",
         note = "Ayush 5 hours"
     },
