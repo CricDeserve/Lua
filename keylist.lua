@@ -45,17 +45,17 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["GOCREAL-BY-AK"] = {
+    ["@AYUSHKRJ"] = {
         type = "16 Hours",
-        expiry = "2026-10-20 16:59:59",  -- 16 ghante (UTC time)
+        expiry = "2026-10-21 16:59:59",  -- 16 ghante (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadayush74",
+        script = "payload24ayush",
         note = "Ayush 5 hours"
     },
     ["NEXT9-VIP-24H"] = {
         type = "17 Hour",
-        expiry = "2026-10-20 17:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-21 17:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 100,
         script = "payload45public",
