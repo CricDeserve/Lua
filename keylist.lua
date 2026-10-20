@@ -65,7 +65,7 @@ return {
         type = "16 Hour",
         expiry = "2026-10-20 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
-        max_devices = 2,
+        max_devices = 3,
         script = "payloadvip24",
         note = "Rohit 24 hour"
     },
