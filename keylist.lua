@@ -45,19 +45,19 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["NEXT9-VIP-24H"] = {
+    ["AYUSH-OP"] = {
         type = "17 Hour",
-        expiry = "2026-10-21 17:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-21 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
-        max_devices = 100,
-        script = "payloadvip24",
+        max_devices = 50,
+        script = "payloadvipayush",
         note = "Rohit 17 hour"
     },
-    ["NEXT9GAMING"] = {
+    ["NEXT9GAMING-ROHIT"] = {
         type = "23 Hour",
-        expiry = "2026-10-21 23:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-22 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
-        max_devices = 30,
+        max_devices = 50,
         script = "payloadvip48",
         note = "Rohit 24 hour"
     },
