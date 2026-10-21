@@ -45,14 +45,6 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["AYUSHKRJ-GOC"] = {
-        type = "16 Hours",
-        expiry = "2026-10-21 16:59:59",  -- 16 ghante (UTC time)
-        valid = true,
-        max_devices = 100,
-        script = "payload24ayush",
-        note = "Ayush 5 hours"
-    },
     ["NEXT9-VIP-24H"] = {
         type = "17 Hour",
         expiry = "2026-10-21 17:59:59",  -- 16 ghanta (UTC time)
@@ -60,14 +52,6 @@ return {
         max_devices = 100,
         script = "payloadvip24",
         note = "Rohit 17 hour"
-    },
-    ["GEN-Z1-OWNER"] = {
-        type = "23 Hour",
-        expiry = "2026-10-21 23:59:59",  -- 16 ghanta (UTC time)
-        valid = true,
-        max_devices = 30,
-        script = "payloadvip24",
-        note = "Rohit 24 hour"
     },
     ["NEXT9GAMING"] = {
         type = "23 Hour",
