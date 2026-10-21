@@ -46,12 +46,12 @@ return {
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
     ["AYUSH-OP"] = {
-        type = "17 Hour",
-        expiry = "2026-10-21 16:59:59",  -- 16 ghanta (UTC time)
+        type = "16 Hour",
+        expiry = "2026-10-22 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadvipayush",
-        note = "Rohit 17 hour"
+        note = "Ayush 17 hour"
     },
     ["NEXT9GAMING-ROHIT"] = {
         type = "23 Hour",
