@@ -62,7 +62,7 @@ return {
         note = "Rohit 24 hour"
     },
     ["NEXT9GAMING"] = {
-        type = "23 Hour",
+        type = "16 Hour",
         expiry = "2026-10-22 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
