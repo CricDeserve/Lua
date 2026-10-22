@@ -50,7 +50,7 @@ return {
         expiry = "2026-10-23 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadvipayush",
+        script = "payloadpubg",
         note = "Ayush 17 hour"
     },
     ["VIP-INDIAN"] = {
@@ -65,7 +65,7 @@ return {
         type = "23 Hour",
         expiry = "2026-10-22 23:59:59",  -- 16 ghanta (UTC time)
         valid = true,
-        max_devices = 50,
+        max_devices = 30,
         script = "payloadvip48",
         note = "Rohit 24 hour"
     },
