@@ -45,20 +45,20 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["AYUSH-OP"] = {
+    ["AYUSH-SAFE-LUA"] = {
         type = "16 Hour",
-        expiry = "2026-10-22 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-23 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadvipayush",
         note = "Ayush 17 hour"
     },
-    ["NEXT9GAMING-ROHIT"] = {
+    ["VIP-INDIAN"] = {
         type = "23 Hour",
-        expiry = "2026-10-22 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-23 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadvip48",
+        script = "payloadvipayush",
         note = "Rohit 24 hour"
     },
     ["GEN-Z1-OWNER"] = {
