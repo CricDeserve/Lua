@@ -58,7 +58,7 @@ return {
         expiry = "2026-10-23 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadvipayush",
+        script = "payloadbgmi",
         note = "Rohit 24 hour"
     },
     ["GEN-Z1-OWNER"] = {
