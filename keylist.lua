@@ -62,8 +62,8 @@ return {
         note = "Rohit 24 hour"
     },
     ["GEN-Z1-OWNER"] = {
-        type = "13 Hour",
-        expiry = "2026-10-22 13:59:59",  -- 16 ghanta (UTC time)
+        type = "23 Hour",
+        expiry = "2026-10-22 23:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadvip48",
