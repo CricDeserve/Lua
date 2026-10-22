@@ -61,12 +61,12 @@ return {
         script = "payloadvip48",
         note = "Rohit 24 hour"
     },
-    ["NEXT9GAMING"] = {
-        type = "16 Hour",
-        expiry = "2026-10-22 16:59:59",  -- 16 ghanta (UTC time)
+    ["GEN-Z1-OWNER"] = {
+        type = "13 Hour",
+        expiry = "2026-10-22 13:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadvip55",
+        script = "payloadvip48",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
