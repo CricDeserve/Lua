@@ -45,7 +45,7 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["AYUSH-SAFE-LUA"] = {
+    ["AYUSH-PRIME"] = {
         type = "16 Hour",
         expiry = "2026-10-23 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
@@ -66,7 +66,7 @@ return {
         expiry = "2026-10-23 23:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadvip48",
+        script = "payloadbgmi",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
