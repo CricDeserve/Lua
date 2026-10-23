@@ -47,7 +47,7 @@ return {
     -- ═══════════════════════════════════════════════════════
     ["AYUSH-PRIME"] = {
         type = "16 Hour",
-        expiry = "2026-10-23 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-24 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadpubg",
