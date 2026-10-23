@@ -53,9 +53,9 @@ return {
         script = "payloadpubg",
         note = "Ayush 17 hour"
     },
-    ["VIP-INDIAN"] = {
-        type = "23 Hour",
-        expiry = "2026-10-23 16:59:59",  -- 16 ghanta (UTC time)
+    ["INDIAN-ROHIT-YT"] = {
+        type = "16 Hour",
+        expiry = "2026-10-24 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi",
