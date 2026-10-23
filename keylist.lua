@@ -61,7 +61,7 @@ return {
         script = "payloadbgmi",
         note = "Rohit 24 hour"
     },
-    ["GEN-Z1-OWNER"] = {
+    ["GEN-Z-26OWNER"] = {
         type = "23 Hour",
         expiry = "2026-10-23 23:59:59",  -- 16 ghanta (UTC time)
         valid = true,
