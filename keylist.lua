@@ -63,7 +63,7 @@ return {
     },
     ["GEN-Z1-OWNER"] = {
         type = "23 Hour",
-        expiry = "2026-10-22 23:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-23 23:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
         script = "payloadvip48",
