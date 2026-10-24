@@ -50,7 +50,7 @@ return {
         expiry = "2026-10-25 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadashix",
+        script = "payloadpubg",
         note = "Ayush 17 hour"
     },
     ["VIP-1D-TRIAL"] = {
@@ -58,7 +58,7 @@ return {
         expiry = "2026-10-25 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadashi",
+        script = "payloadbgmi",
         note = "Rohit 24 hour"
     },
     ["GEN-Z-26OWNER"] = {
@@ -66,7 +66,7 @@ return {
         expiry = "2026-10-25 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadashi",
+        script = "payloadbgmi",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
