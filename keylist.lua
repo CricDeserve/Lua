@@ -47,7 +47,7 @@ return {
     -- ═══════════════════════════════════════════════════════
     ["AYUSH-PAIDGOC"] = {
         type = "16 Hour",
-        expiry = "2026-10-25 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-26 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadpubg",
@@ -61,9 +61,17 @@ return {
         script = "payloadfeedback",
         note = "Rohit 24 hour"
     },
-    ["GEN-Z-26OWNER"] = {
+    ["ERA-OF"] = {
         type = "16 Hour",
-        expiry = "2026-10-25 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-26 16:59:59",  -- 16 ghanta (UTC time)
+        valid = true,
+        max_devices = 50,
+        script = "payloadbgmi",
+        note = "Rohit 24 hour"
+    },
+    ["GEN-Z-2026-OWNER"] = {
+        type = "16 Hour",
+        expiry = "2026-10-26 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
         script = "payloadbgmi",
