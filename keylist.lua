@@ -71,7 +71,7 @@ return {
     },
     ["GEN-Z-2026-OWNER"] = {
         type = "16 Hour",
-        expiry = "2026-10-26 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-27 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
         script = "payloadbgmi",
