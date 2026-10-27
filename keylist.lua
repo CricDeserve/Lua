@@ -45,25 +45,17 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["AYUSH-OP"] = {
+    ["KING-AYUSH"] = {
         type = "16 Hour",
-        expiry = "2026-10-27 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-28 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadpubg",
         note = "Ayush 17 hour"
     },
-    ["ROHIT-LUA"] = {
+    ["V40-UPDATE"] = {
         type = "16 Hour",
-        expiry = "2026-10-27 16:59:59",  -- 16 ghanta (UTC time)
-        valid = true,
-        max_devices = 50,
-        script = "payloadbgmi",
-        note = "Rohit 24 hour"
-    },
-    ["ERA-OF"] = {
-        type = "16 Hour",
-        expiry = "2026-10-26 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-28 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi",
@@ -71,7 +63,7 @@ return {
     },
     ["GEN-Z-2026-OWNER"] = {
         type = "16 Hour",
-        expiry = "2026-10-27 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-28 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
         script = "payloadbgmi",
