@@ -63,10 +63,10 @@ return {
     },
     ["V40-UPDATE-VIP"] = {
         type = "16 Hour",
-        expiry = "2026-10-28 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-29 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi1",
+        script = "payloadbgmi2",
         note = "Rohit 24 hour"
     },
     ["GEN-Z-2026-OWNER"] = {
