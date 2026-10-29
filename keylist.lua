@@ -50,7 +50,7 @@ return {
         expiry = "2026-10-30 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadpubg1",
+        script = "payloadayush2",
         note = "Ayush 17 hour"
     },
     ["V40-UPDATE-PAID"] = {
