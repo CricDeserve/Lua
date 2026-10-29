@@ -53,7 +53,7 @@ return {
         script = "payloadpubg1",
         note = "Ayush 17 hour"
     },
-    ["V40-UPDATE"] = {
+    ["V40-UPDATE-PAID"] = {
         type = "16 Hour",
         expiry = "2026-10-29 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
