@@ -45,9 +45,9 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["PAID-TRIAL-ESP"] = {
+    ["AYUSH-REAL"] = {
         type = "16 Hour",
-        expiry = "2026-10-29 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-30 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadpubg1",
@@ -61,12 +61,12 @@ return {
         script = "payloadbgmi4",
         note = "Rohit 24 hour"
     },
-    ["V41-UPDATE-VIP"] = {
+    ["ROHIT-VIP-LUA"] = {
         type = "16 Hour",
-        expiry = "2026-10-29 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-30 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi2",
+        script = "payloadbgmi3",
         note = "Rohit 24 hour"
     },
     ["GEN-Z-2026-OWNER"] = {
