@@ -55,10 +55,10 @@ return {
     },
     ["V40-UPDATE"] = {
         type = "16 Hour",
-        expiry = "2026-10-28 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-29 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi",
+        script = "payloadbgmi3",
         note = "Rohit 24 hour"
     },
     ["V41-UPDATE-VIP"] = {
