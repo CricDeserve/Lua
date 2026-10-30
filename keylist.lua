@@ -47,7 +47,7 @@ return {
     -- ═══════════════════════════════════════════════════════
     ["AYUSH-REAL"] = {
         type = "16 Hour",
-        expiry = "2026-10-30 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadayush2",
@@ -61,9 +61,9 @@ return {
         script = "payloadbgmi6",
         note = "Rohit 24 hour"
     },
-    ["ROHIT-VIP-LUA"] = {
+    ["NEXT9MODZZ-ERA"] = {
         type = "16 Hour",
-        expiry = "2026-10-30 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi5",
