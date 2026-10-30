@@ -45,7 +45,7 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["AYUSH-REAL"] = {
+    ["GOC-AYUSH"] = {
         type = "16 Hour",
         expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
