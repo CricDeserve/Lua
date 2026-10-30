@@ -58,7 +58,7 @@ return {
         expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi8",
+        script = "payloadbgmi9",
         note = "Rohit 24 hour"
     },
     ["NEXT9MODZZ-ERA"] = {
@@ -69,12 +69,12 @@ return {
         script = "payloadbgmi5",
         note = "Rohit 24 hour"
     },
-    ["GEN-Z-2026-OWNER"] = {
+    ["GNE-Z-O2026"] = {
         type = "16 Hour",
-        expiry = "2026-10-29 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadbgmi2",
+        script = "payloadbgmi5",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
