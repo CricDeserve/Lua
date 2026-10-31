@@ -69,12 +69,12 @@ return {
         script = "payloadbgmi13",
         note = "Rohit 24 hour"
     },
-    ["GNE-Z-O2026"] = {
+    ["GEN-Z-26-HACK"] = {
         type = "16 Hour",
-        expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-1 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadbgmi5",
+        script = "payloadbgmi13",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
