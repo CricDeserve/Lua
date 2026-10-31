@@ -45,12 +45,12 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["GOC-AYUSH"] = {
+    ["PAID-PAK-AYUSH"] = {
         type = "16 Hour",
-        expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-1 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadayush2",
+        script = "payloadayush55",
         note = "Ayush 17 hour"
     },
     ["V40-UPDATE-PAID"] = {
@@ -61,12 +61,12 @@ return {
         script = "payloadbgmi13",
         note = "Rohit 24 hour"
     },
-    ["NEXT9MODZZ-ERA"] = {
+    ["VIP-PAD-PAK"] = {
         type = "16 Hour",
-        expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-1 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi5",
+        script = "payloadbgmi13",
         note = "Rohit 24 hour"
     },
     ["GNE-Z-O2026"] = {
