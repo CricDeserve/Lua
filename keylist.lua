@@ -61,12 +61,12 @@ return {
         script = "payloadbgmi19",
         note = "Rohit 24 hour"
     },
-    ["VIP-PAD-PAK"] = {
+    ["ROHIT-PAID-PAK"] = {
         type = "16 Hour",
-        expiry = "2026-11-1 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-2 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi13",
+        script = "payloadbgmi19",
         note = "Rohit 24 hour"
     },
     ["GEN-Z-26-HACK"] = {
