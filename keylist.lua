@@ -45,12 +45,12 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["PAID-PAK-AYUSH"] = {
+    ["GOC-PAID-PAK"] = {
         type = "16 Hour",
-        expiry = "2026-11-1 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-2 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadayush55",
+        script = "payloadayush19",
         note = "Ayush 17 hour"
     },
     ["V40-UPDATE-PAID"] = {
