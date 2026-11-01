@@ -58,7 +58,7 @@ return {
         expiry = "2026-10-31 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi17",
+        script = "payloadbgmi19",
         note = "Rohit 24 hour"
     },
     ["VIP-PAD-PAK"] = {
@@ -66,7 +66,7 @@ return {
         expiry = "2026-11-1 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi18",
+        script = "payloadbgmi13",
         note = "Rohit 24 hour"
     },
     ["GEN-Z-26-HACK"] = {
