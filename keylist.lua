@@ -45,9 +45,9 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["GOC-PAID-PAK"] = {
+    ["GOC-REAL-VIP"] = {
         type = "16 Hour",
-        expiry = "2026-11-2 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-3 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadayush19",
@@ -61,9 +61,9 @@ return {
         script = "payloadbgmi19",
         note = "Rohit 24 hour"
     },
-    ["ROHIT-PAID-PAK"] = {
+    ["NEXT-9-GAMING"] = {
         type = "16 Hour",
-        expiry = "2026-11-2 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-3 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi19",
