@@ -45,28 +45,28 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["GOC-REAL-VIP"] = {
+    ["GOC-PRIME"] = {
         type = "16 Hour",
-        expiry = "2026-11-3 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-4 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadayush19",
+        script = "payloadayush21",
         note = "Ayush 17 hour"
     },
     ["V40-UPDATE-PAID"] = {
         type = "16 Hour",
-        expiry = "2026-10-4 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-10-5 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi21",
         note = "Rohit 24 hour"
     },
-    ["NEXT-9-GAMING"] = {
+    ["ROHIT-VIP-TOOL"] = {
         type = "16 Hour",
-        expiry = "2026-11-3 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-4 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi19",
+        script = "payloadbgmi21",
         note = "Rohit 24 hour"
     },
     ["GEN-Z-26-HACK"] = {
