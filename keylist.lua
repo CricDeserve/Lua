@@ -72,7 +72,7 @@ return {
     ["GEN-Z-26-HACK"] = {
         type = "16 Hour",
         expiry = "2026-11-1 16:59:59",  -- 16 ghanta (UTC time)
-        valid = true,
+        valid = false,
         max_devices = 30,
         script = "payloadbgmi13",
         note = "Rohit 24 hour"
