@@ -61,9 +61,9 @@ return {
         script = "payloadbgmi22",
         note = "Rohit 24 hour"
     },
-    ["NEXT9GAMING-NEXT9MODZZ"] = {
+    ["TG-KA-BAAP-ROHIT-BHAI"] = {
         type = "16 Hour",
-        expiry = "2026-11-5 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-6 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi21",
