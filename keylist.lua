@@ -66,7 +66,7 @@ return {
         expiry = "2026-11-7 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi21",
+        script = "payloadbgmi22",
         note = "Rohit 24 hour"
     },
     ["GEN-Z-NOV-26"] = {
