@@ -61,9 +61,9 @@ return {
         script = "payloadpaid",
         note = "Rohit 24 hour"
     },
-    ["TG-KA-BAAP-ROHIT-BHAI"] = {
+    ["SABKA-BAP-ROHIT-BHAI"] = {
         type = "16 Hour",
-        expiry = "2026-11-6 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-7 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi21",
