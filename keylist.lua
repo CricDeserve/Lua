@@ -57,8 +57,8 @@ return {
         type = "16 Hour",
         expiry = "2026-10-10 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
-        max_devices = 50,
-        script = "payloadpaid",
+        max_devices = 2,
+        script = "payloadpaiduser1",
         note = "Rohit 24 hour"
     },
     ["SABKA-BAP-ROHIT-BHAI"] = {
