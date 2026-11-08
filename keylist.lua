@@ -58,7 +58,7 @@ return {
         expiry = "2026-10-10 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 2,
-        script = "payloadpaiduser1",
+        script = "payloadpaiduser4",
         note = "Rohit 24 hour"
     },
     ["HAPPY-DIWALI-EVERYONE"] = {
@@ -69,12 +69,12 @@ return {
         script = "payloadbgmi22",
         note = "Rohit 24 hour"
     },
-    ["GEN-Z-NOV-26"] = {
+    ["HAPPY-DIWALI"] = {
         type = "16 Hour",
-        expiry = "2026-11-7 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-9 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadbgmi21",
+        script = "payloadbgmi22",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
