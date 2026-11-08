@@ -61,9 +61,9 @@ return {
         script = "payloadpaiduser1",
         note = "Rohit 24 hour"
     },
-    ["TG-NEXT9GAMING"] = {
+    ["HAPPY-DIWALI-EVERYONE"] = {
         type = "16 Hour",
-        expiry = "2026-11-8 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-9 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi22",
