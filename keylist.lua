@@ -45,9 +45,9 @@ return {
     -- ═══════════════════════════════════════════════════════
     -- 🟡 TIME-BASED KEYS (Hour / Minute access)
     -- ═══════════════════════════════════════════════════════
-    ["GOC-PRIME"] = {
+    ["ROHIT-VIP"] = {
         type = "16 Hour",
-        expiry = "2026-11-4 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-17 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadayush21",
