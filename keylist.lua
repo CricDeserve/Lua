@@ -63,7 +63,7 @@ return {
     },
     ["V53-PAK-FILE"] = {
         type = "16 Hour",
-        expiry = "2026-11-9 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-11 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi26",
