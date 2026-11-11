@@ -50,7 +50,7 @@ return {
         expiry = "2026-11-17 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi27",
+        script = "payloadbgmi26",
         note = "Ayush 17 hour"
     },
     ["V40-UPDATE-PAID"] = {
@@ -66,7 +66,7 @@ return {
         expiry = "2026-11-11 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi27",
+        script = "payloadbgmi26",
         note = "Rohit 24 hour"
     },
     ["HAPPY-DIWALI"] = {
