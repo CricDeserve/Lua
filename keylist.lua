@@ -50,7 +50,7 @@ return {
         expiry = "2026-11-17 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi28",
+        script = "payloadbgmi29",
         note = "Ayush 17 hour"
     },
     ["V40-UPDATE-PAID"] = {
@@ -61,12 +61,12 @@ return {
         script = "payloadpaiduser1",
         note = "Rohit 24 hour"
     },
-    ["V53-PAK-FILE"] = {
+    ["UPDATED-PAK-FILE"] = {
         type = "16 Hour",
-        expiry = "2026-11-11 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-12 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi26",
+        script = "payloadbgmi29",
         note = "Rohit 24 hour"
     },
     ["HAPPY-DIWALI"] = {
@@ -74,7 +74,7 @@ return {
         expiry = "2026-11-9 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadbgmi26",
+        script = "payloadbgmi29",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
