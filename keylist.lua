@@ -66,7 +66,7 @@ return {
         expiry = "2026-11-13 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi29",
+        script = "payloadbgmi22",
         note = "Rohit 24 hour"
     },
     ["HAPPY-DIWALI"] = {
@@ -74,7 +74,7 @@ return {
         expiry = "2026-11-9 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadbgmi29",
+        script = "payloadbgmi22",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
