@@ -61,9 +61,9 @@ return {
         script = "payloadpaiduser1",
         note = "Rohit 24 hour"
     },
-    ["UPDATED-PAK-FILE"] = {
+    ["TG-NEXT9GAMING"] = {
         type = "16 Hour",
-        expiry = "2026-11-12 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-13 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi29",
