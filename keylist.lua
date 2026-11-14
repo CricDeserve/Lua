@@ -63,7 +63,7 @@ return {
     },
     ["PRE-BOOKING-ON-HAI"] = {
         type = "16 Hour",
-        expiry = "2026-11-14 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-15 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadbgmi22",
