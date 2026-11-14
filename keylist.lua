@@ -69,9 +69,9 @@ return {
         script = "payloadbgmi22",
         note = "Rohit 24 hour"
     },
-    ["HAPPY-DIWALI"] = {
+    ["NOV-26-GENZ"] = {
         type = "16 Hour",
-        expiry = "2026-11-9 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-15 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
         script = "payloadbgmi22",
