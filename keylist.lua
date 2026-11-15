@@ -61,12 +61,12 @@ return {
         script = "payloadpaiduser1",
         note = "Rohit 24 hour"
     },
-    ["PRE-BOOKING-ON-HAI"] = {
+    ["PRE-BOOKING"] = {
         type = "16 Hour",
-        expiry = "2026-11-15 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-16 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadbgmi23",
+        script = "payloadpaid1",
         note = "Rohit 24 hour"
     },
     ["NOV-26-GENZ"] = {
@@ -74,7 +74,7 @@ return {
         expiry = "2026-11-15 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadbgmi23",
+        script = "payloadpaid1",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
