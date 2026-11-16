@@ -69,9 +69,9 @@ return {
         script = "payloadpaid1",
         note = "Rohit 24 hour"
     },
-    ["NOV-26-GENZ"] = {
+    ["PRE-BOOKING"] = {
         type = "16 Hour",
-        expiry = "2026-11-15 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-18 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
         script = "payloadpaid1",
