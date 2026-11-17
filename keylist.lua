@@ -61,20 +61,20 @@ return {
         script = "payloadpaiduser1",
         note = "Rohit 24 hour"
     },
-    ["V60-UPDATED-FILE"] = {
+    ["PAID-SKIN-FILE"] = {
         type = "16 Hour",
-        expiry = "2026-11-17 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-18 10:00:00",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadpaid1",
+        script = "payloadpaid2",
         note = "Rohit 24 hour"
     },
     ["PRE-BOOKING"] = {
         type = "16 Hour",
-        expiry = "2026-11-18 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-18 10:00:00",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadpaid1",
+        script = "payloadpaid2",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
