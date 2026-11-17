@@ -66,7 +66,7 @@ return {
         expiry = "2026-11-18 10:00:00",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadpaid1",
+        script = "payloadpaid2",
         note = "Rohit 24 hour"
     },
     ["PRE-BOOKING"] = {
@@ -74,7 +74,7 @@ return {
         expiry = "2026-11-18 10:00:00",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 30,
-        script = "payloadpaid1",
+        script = "payloadpaid2",
         note = "Rohit 24 hour"
     },
     ["VIP-30MIN-VIJAY"] = {
