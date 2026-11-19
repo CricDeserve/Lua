@@ -53,12 +53,12 @@ return {
         script = "payloadbgmi29",
         note = "Ayush 17 hour"
     },
-    ["V40-UPDATE-PAID"] = {
+    ["UTX1-UPDATE-PAID"] = {
         type = "16 Hour",
-        expiry = "2026-10-10 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-20 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 2,
-        script = "payloadpaiduser1",
+        script = "payloadsrc",
         note = "Rohit 24 hour"
     },
     ["PAID-SKIN-FILE"] = {
