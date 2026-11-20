@@ -19,10 +19,10 @@ return {
     -- ═══════════════════════════════════════════════════════
     ["VIP-3MONTH-A01"] = {
         type = "VIP",
-        expiry = "2027-03-31",      -- 3 mahine
+        expiry = "2027-11-31",      -- 3 mahine
         valid = true,
-        max_devices = 1,
-        script = "payload",
+        max_devices = 50,
+        script = "payloadgoku25",
         note = "3 Month Single Device"
     },
     ["VIP-6MONTH-B02"] = {
