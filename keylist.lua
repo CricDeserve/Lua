@@ -55,7 +55,7 @@ return {
     },
     ["UTX1-UPDATE-PAID"] = {
         type = "16 Hour",
-        expiry = "2026-11-20 16:59:59",  -- 16 ghanta (UTC time)
+        expiry = "2026-11-22 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
         script = "payloadgoku",
