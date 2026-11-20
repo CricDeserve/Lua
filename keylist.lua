@@ -58,7 +58,7 @@ return {
         expiry = "2026-11-20 16:59:59",  -- 16 ghanta (UTC time)
         valid = true,
         max_devices = 50,
-        script = "payloadsrc",
+        script = "payloadgoku",
         note = "Rohit 24 hour"
     },
     ["PAID-SKIN-FILE"] = {
